@@ -8,9 +8,9 @@ Other Degrees (e.g. Bachelors): Masters in Hydrology
                                 
 List 3 things you hope to get out of the class:
 
-Thing 1 I want to learn basic Python
-Thing 2 General data managment and common analysis
-Thing 3 I want to learn about the Image analysis
+Thing 1 I want to learn basic Python.
+Thing 2 General data managment and common analysis.
+Thing 3 I want to learn about the Image analysis.
 
 
 
